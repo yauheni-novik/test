@@ -13,5 +13,6 @@ public class App {
 		System.out.println("adding sysout");
 		System.out.println("adding first comment into branch");
 		System.out.println("adding second comment into branch");
+		System.out.println("adding third comment into branch");
 	}
 }
