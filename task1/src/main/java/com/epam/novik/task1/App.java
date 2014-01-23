@@ -9,7 +9,7 @@ public class App {
 			.getLogger(App.class);
 
 	public static void main(String[] args) {
-		log.info("Hello World!");
+		log.info("Hello Yauheni Novik!");
 		System.out.println("adding sysout");
 		System.out.println("adding first comment into branch");
 		System.out.println("adding second comment into branch");
