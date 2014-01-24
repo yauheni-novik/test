@@ -11,5 +11,7 @@ public class App {
 	public static void main(String[] args) {
 		log.info("Hello Yauheni Novik!");
 		System.out.println("adding System.out.println()");
+		System.out.println("adding second comment into branch");
+		System.out.println("adding third comment into branch");
 	}
 }
